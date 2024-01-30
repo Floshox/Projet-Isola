@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Isola">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Isola.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
